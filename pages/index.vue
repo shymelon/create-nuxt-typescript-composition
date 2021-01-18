@@ -7,51 +7,70 @@
       </div>
       <v-card>
         <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js + Typescript template
+          Vuetify + Nuxt.js + Typescript template
         </v-card-title>
         <v-card-text>
-          <p>Vuetify is a progressive Material Design component framework for Vue.js. It was designed to empower developers to create amazing applications.</p>
-          <p>
-            For more information on Vuetify, check out the <a
-              href="https://vuetifyjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              documentation
-            </a>.
-          </p>
-          <p>
-            If you have questions, please join the official <a
-              href="https://chat.vuetifyjs.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="chat"
-            >
-              discord
-            </a>.
-          </p>
-          <p>
-            Find a bug? Report it on the github <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="contribute"
-            >
-              issue board
-            </a>.
-          </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
-          <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
-          </div>
+          <p>Features:</p>
+          <ul>
+            <li>
+              <a
+                href="https://www.typescriptlang.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >Typescript
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://nuxtjs.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >Nuxt
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://composition-api.nuxtjs.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              > Nuxt composition API
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://typescript.nuxtjs.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              > Nuxt Typescript
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://auth.nuxtjs.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              > Nuxt Auth module
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://axios.nuxtjs.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              > Nuxt Axios module
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://vuetifyjs.com"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Vuetify
+              </a>
+            </li>
+          </ul>
           <hr class="my-3">
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt Documentation
-          </a>
           <br>
           <a
             href="https://github.com/nuxt/nuxt.js"
