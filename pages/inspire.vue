@@ -1,7 +1,5 @@
 <template>
-  <v-row>
-    <v-col class="text-center">
-      <counter />
-    </v-col>
-  </v-row>
+  <div class="d-flex justify-center">
+    <counter />
+  </div>
 </template>
